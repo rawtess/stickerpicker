@@ -1,6 +1,9 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "melisoweli.json",
+    "cybercyber.json",
+    "CatEarGirl2.json"
   ],
   "homeserver_url": "https://synapse.egirls.gay"
 }
